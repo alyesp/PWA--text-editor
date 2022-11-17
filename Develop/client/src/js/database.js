@@ -11,7 +11,7 @@ const initdb = async () =>
       console.log('jate database created');
     },
   });
-// Accepted content and adds it to the database (IndexDB)
+  // Accepted content and adds it to the database (IndexDB)
 export const putDb = async (content) => {
   const jateDB = await openDB('jate', 1 );
   const tx = jateDB.transaction('jate', 'readwrite');
