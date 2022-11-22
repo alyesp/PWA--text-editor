@@ -15,11 +15,19 @@ J.A.T.E was created as a simple text editor app that can function both online an
 To use this app to fo the link provided below. For the offline usage, go to the link and hit the "install" button to install the app locally for offline use.
 
 ## Heroku Link:
+[Heroku Link](https:https://salty-reaches-38553.herokuapp.com/)
 
 ## Images:
+![myscreenshot](./Develop/assets/images/jate.png)
+
+`IndexDB` file:
+![myscreenshot](./Develop/assets/images/jateindexDB.png)
+
+`Manafest.json` file:
+![myscreenshot](./Develop/assets/images/jatemani.png)
 
 ## Technologies Used:
+`javascript` `node.js` `express.js` `webpack` 
 
 ### GitHub Link:
-
-## 
+[GitHub](https://github.com/alyesp/PWA--text-editor)
