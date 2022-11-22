@@ -12,7 +12,7 @@ module.exports = {
   },
 
   plugins: [
-    new HtmlWebpackPlugin({ //'new' return a new instance of a class
+    new HtmlWebpackPlugin({
       template: './index.html',
       title: 'Webpack Plugin'
     })
